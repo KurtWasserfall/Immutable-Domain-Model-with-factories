@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 /**
  *
- * @author kurt
+ *@author kurt wasserfall 211150142 3B
  */
 public class EmployeeTest {
     
